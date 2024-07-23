@@ -3,7 +3,7 @@
 }
 
 section{
-    &header{
+    & header{
         & strong {
             display: block;
             font: var(--fw-md) var(--fs-sm)/100% var(--ff-sans);
